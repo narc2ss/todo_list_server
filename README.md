@@ -10,5 +10,6 @@
 
 ## Command
 ```shell
-$ yarn start:dev
+$ yarn start:dev # 개발모드
+$ yarn build # 빌드
 ```
