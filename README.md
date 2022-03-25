@@ -4,3 +4,6 @@
 
 ### Authorization
 - JWT (Cookie)
+
+## contributor
+김만규
