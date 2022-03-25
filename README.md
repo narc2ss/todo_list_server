@@ -5,5 +5,10 @@
 ### Authorization
 - JWT (Cookie)
 
-## contributor
+## Contributor
 김만규
+
+## Command
+```shell
+$ yarn start:dev
+```
